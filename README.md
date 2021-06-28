@@ -24,9 +24,8 @@
     24. [Contact](#24-Contact)  
 
 # 1. User Module
-<img src="Screenshots/home_without_login.png">
-![image]('https://github.com/Varad-VK/SuperMart-Online-Grocery-Shop/tree/master/Screenshots/home_without_login.png')
-![alt text](http://github.com/Varad-VK/SuperMart-Online-Grocery-Shop/tree/master/Screenshots/to/home_without_login.png)
+<img src="Screenshots/home_without_login.png" width="20%">
+
 # 2. Admin Module
 <img src="./screenshots/products_details_admin.png" width="20%">
 
