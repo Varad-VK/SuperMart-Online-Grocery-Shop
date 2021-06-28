@@ -2,9 +2,9 @@
 
 #### *SuperMart* is web application project.
 
- **Frontend:** HTML,CSS,BOOTSTRAP,TAILWINDCSS
- **Backend:** PHP *(Procedual Approach)*
- **Database:** Mysql
+ **Frontend:** HTML,CSS,BOOTSTRAP,TAILWINDCSS <br />
+ **Backend:** PHP *(Procedual Approach)* <br />
+ **Database:** Mysql <br />
 
  ## No. of Modules:
  1. [User Module](#1-User-Module)  
@@ -26,7 +26,7 @@
 # 1. User Module
 ![image]('https://github.com/Varad-VK/SuperMart-Online-Grocery-Shop/tree/master/Screenshots/home_without_login.png')
 
-
+![plot](./tree/master/Screenshots/home_without_login.png)
 # 2. Admin Module
 <img src="./screenshots/products_details_admin.png" width="20%">
 
