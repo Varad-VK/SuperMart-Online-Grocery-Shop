@@ -25,11 +25,40 @@
 
 # 1. User Module
 ### 1.1. Sign Up
-<img src="Screenshots/user_sign up.png" width="50%">
-### 1.2 Login
-<img src="Screenshots/user login.png" width="50%">
+<img src="Screenshots/user_sign up.png" width="50%"> </br>
+### 1.2. Login
+<img src="Screenshots/user login.png" width="50%"> </br>
+### 1.3. Home Page
+<img src="Screenshots/home_without_login" width="50%"> </br>
+### 1.4. Products
+<img src="Screenshots/products.png" width="50%"> </br>
+### 1.5. Cart
+<img src="Screenshots/cart.png" width="50%"> </br>
+### 1.6. Feedback
+*Requires Login*
+<img src="Screenshots/feedback_user.png" width="50%"> </br>
+### 1.7. Contact
+<img src="Screenshots/contact us.png" width="50%"> </br>
+### 1.8. My Account
+<img src="Screenshots/my account user.png" width="50%"> </br>
+
 # 2. Admin Module
-<img src="Screenshots/products_details_admin.png" width="50%">
+### 2.1. Users
+*Requires Login*
+<img src="Screenshots/user details_admin.png" width="50%"> </br>
+
+### 2.2. Products
+*Requires Login*
+<img src="Screenshots/products_details_admin.png" width="50%"> </br>
+
+### 2.3. Feedback
+*Requires Login*
+<img src="Screenshots/feedback details_admin.png" width="50%"> </br>
+
+### 2.4. Contact
+*Requires Login*
+<img src="Screenshots/contact details_admin.png" width="50%"> </br>
+
 
 
 
