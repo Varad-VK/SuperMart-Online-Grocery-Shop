@@ -35,7 +35,7 @@
 ### 1.5. Cart
 <img src="Screenshots/cart.png" width="50%"> </br>
 ### 1.6. Feedback
-*Requires Login*
+*Requires Login* </br>
 <img src="Screenshots/feedback_user.png" width="50%"> </br>
 ### 1.7. Contact
 <img src="Screenshots/contact us.png" width="50%"> </br>
@@ -44,19 +44,19 @@
 
 # 2. Admin Module
 ### 2.1. Users
-*Requires Login*
+*Requires Login* </br>
 <img src="Screenshots/user details_admin.png" width="50%"> </br>
 
 ### 2.2. Products
-*Requires Login*
+*Requires Login* </br>
 <img src="Screenshots/products_details_admin.png" width="50%"> </br>
 
 ### 2.3. Feedback
-*Requires Login*
+*Requires Login* </br>
 <img src="Screenshots/feedback details_admin.png" width="50%"> </br>
 
 ### 2.4. Contact
-*Requires Login*
+*Requires Login* </br>
 <img src="Screenshots/contact details_admin.png" width="50%"> </br>
 
 
