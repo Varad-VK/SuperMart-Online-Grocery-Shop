@@ -24,8 +24,10 @@
     24. [Contact](#24-Contact)  
 
 # 1. User Module
-<img src="Screenshots/home_without_login.png" width="50%">
-
+## 1.1 Sign UP
+<img src="Screenshots/user_sign up.png" width="50%">
+## 1.2 Login
+<img src="Screenshots/user login.png" width="50%">
 # 2. Admin Module
 <img src="Screenshots/products_details_admin.png" width="50%">
 
