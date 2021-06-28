@@ -4,7 +4,7 @@
 
  **Frontend:** HTML,CSS,BOOTSTRAP,TAILWINDCSS <br />
  **Backend:** PHP *(Procedual Approach)* <br />
- **Database:** Mysql <br />
+ **Database:** MySQL <br />
 
  ## No. of Modules:
  1. [User Module](#1-User-Module)  
