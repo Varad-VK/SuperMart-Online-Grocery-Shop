@@ -24,7 +24,8 @@
     24. [Contact](#24-Contact)  
 
 # 1. User Module
-<img src="https://app.box.com/s/i9gs3zld41wnfudvxkhfbxzzdb0d8joc" width="20%"> 
+![alt text](https://github.com/Varad-VK/SuperMart-Online-Grocery-Shop/tree/master/Screenshots/'home_without login.png')
+
 
 # 2. Admin Module
 <img src="./screenshots/products_details_admin.png" width="20%">
