@@ -26,7 +26,6 @@
 # 1. User Module
 ![image]('https://github.com/Varad-VK/SuperMart-Online-Grocery-Shop/tree/master/Screenshots/home_without_login.png')
 
-![plot](./tree/master/Screenshots/home_without_login.png)
 # 2. Admin Module
 <img src="./screenshots/products_details_admin.png" width="20%">
 
