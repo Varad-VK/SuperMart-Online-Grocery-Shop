@@ -3,7 +3,7 @@
 #### *SuperMart* is web application project.
 
  **Frontend:** HTML,CSS,BOOTSTRAP,TAILWINDCSS <br />
- **Backend:** PHP *(Procedual Approach)* <br />
+ **Backend:** PHP *(Procedural Approach)* <br />
  **Database:** MySQL <br />
 
  ## No. of Modules:
