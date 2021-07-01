@@ -29,7 +29,7 @@
 ### 1.2. Login
 <img src="Screenshots/user login.png" width="50%"> </br>
 ### 1.3. Home Page
-<img src="Screenshots/home_without_login" width="50%"> </br>
+<img src="Screenshots/home_without_login.png" width="50%"> </br>
 ### 1.4. Products
 <img src="Screenshots/products.png" width="50%"> </br>
 ### 1.5. Cart
